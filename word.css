@@ -1,0 +1,80 @@
+@charset "UTF-8";
+.Sanne2 {
+	margin-left: auto;
+	display: block;
+	position: relative;
+	height: auto;
+}
+.p1 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 16px;
+	text-align: center;
+	font-style: normal;
+	font-weight: bold;
+	background-color: #FFFFFF;
+	clear: none;
+	float: none;
+	height: 100px;
+	width: auto;
+	position: absolute;
+	line-height: 1.5em;
+	top: 60%;
+}
+.p2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-style: italic;
+	font-weight: normal;
+	float: left;
+	width: 100px;
+	margin: 50px;
+	padding-left: 10px;
+	position: relative;
+}
+.abs {
+	position: relative;
+	opacity: 0.4;
+	margin-right: 20%;
+	margin-left: 80%;
+	margin-top: -60%;
+}
+.Sanne3 {
+    position: relative;
+    padding-left: inherit;
+    margin-left: 60%;
+    margin-right: 7%;
+    font-size: 36px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.Sanne4 {
+}
+.p4 {
+    position: absolute;
+    margin-left: 3%;
+    left: 10%;
+    top: -20%;
+}
+.play1 {
+    width: 200px;
+    position: absolute;
+    left: 40%;
+    bottom: 40%;
+}
+.p3 {
+}
+.play2 {
+    width: 200px;
+    position: relative;
+    left: 50%;
+}
+.play3 {
+    width: 200px;
+    position: relative;
+    left: 50%;
+}
+.nextpage {
+    right: 10%;
+    position: absolute;
+    display: block;
+    width: 200px;
+}
